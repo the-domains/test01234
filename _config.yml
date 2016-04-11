@@ -1,0 +1,14 @@
+layout_spectrum: 0.8457565
+typography_spectrum: 0.9085561
+color:
+  saturation: 0.3544917
+  lightness: 0.2547098
+  brandStrength: 0.1969038
+  rhythmicContrast: 0.03973239
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Test01234
